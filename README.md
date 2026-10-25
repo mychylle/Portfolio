@@ -2,7 +2,7 @@
 
 A personal portfolio website for **Michelle A. Godin**, a fourth-year Information Technology student and UI/UX enthusiast. It introduces who I am, what I'm learning, and the projects I've built in class and on my own.
 
-**Live site:** https://mychylle.github.io/portfolio/
+**Live site:** https://mychylle.github.io/Portfolio/
 
 ## What's on the site
 
